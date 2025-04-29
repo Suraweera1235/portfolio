@@ -106,15 +106,6 @@ body {
     z-index: 0; 
 }
 
-@keyframes spin {
-    0% {
-        transform: translate(-50%, -50%) rotate(0deg);
-    }
-    100% {
-        transform: translate(-50%, -50%) rotate(360deg);
-    }
-}
-
 .home-content h1 {
    font-size: 45px;
    line-height: 1.2;
